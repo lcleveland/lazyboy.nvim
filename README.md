@@ -37,7 +37,7 @@
 <h3 align="center">lazyboy.nvim</h3>
 
   <p align="center">
-    project_description
+    My nvim config built using lazy.nvim.
     <br />
     <a href="https://github.com/lcleveland/lazyboy.nvim"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `lcleveland`, `lazyboy.nvim`, `twitter_handle`, `lylecleveland`, `email_client`, `email`, `lazyboy.nvim`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `lcleveland`, `lazyboy.nvim`, `twitter_handle`, `lylecleveland`, `email_client`, `email`, `lazyboy.nvim`, `My nvim config built using lazy.nvim.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

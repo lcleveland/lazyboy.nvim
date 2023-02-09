@@ -42,8 +42,6 @@
     <a href="https://github.com/lcleveland/lazyboy.nvim"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lcleveland/lazyboy.nvim">View Demo</a>
-    ·
     <a href="https://github.com/lcleveland/lazyboy.nvim/issues">Report Bug</a>
     ·
     <a href="https://github.com/lcleveland/lazyboy.nvim/issues">Request Feature</a>

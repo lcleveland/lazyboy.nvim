@@ -225,7 +225,7 @@ Project Link: [https://github.com/lcleveland/lazyboy.nvim](https://github.com/lc
 [issues-shield]: https://img.shields.io/github/issues/lcleveland/lazyboy.nvim.svg?style=for-the-badge
 [issues-url]: https://github.com/lcleveland/lazyboy.nvim/issues
 [license-shield]: https://img.shields.io/github/license/lcleveland/lazyboy.nvim.svg?style=for-the-badge
-[license-url]: https://github.com/lcleveland/lazyboy.nvim/blob/master/LICENSE.txt
+[license-url]: https://github.com/lcleveland/lazyboy.nvim/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lylecleveland
 [product-screenshot]: images/screenshot.png

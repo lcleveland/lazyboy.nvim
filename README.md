@@ -184,9 +184,7 @@ Project Link: [https://github.com/lcleveland/lazyboy.nvim](https://github.com/lc
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

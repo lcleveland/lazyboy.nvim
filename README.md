@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Lyle Cleveland - lyle.cleveland@yahoo.com
 
 Project Link: [https://github.com/lcleveland/lazyboy.nvim](https://github.com/lcleveland/lazyboy.nvim)
 

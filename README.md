@@ -91,7 +91,6 @@ My nvim config built using lazy.nvim.
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![lazy.nvim][lazy.nvim]][lazy.nvim-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

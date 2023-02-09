@@ -85,11 +85,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `lcleveland`, `lazyboy.nvim`, `twitter_handle`, `lylecleveland`, `email_client`, `email`, `lazyboy.nvim`, `My nvim config built using lazy.nvim.`
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+My nvim config built using lazy.nvim.
 
 ### Built With
 

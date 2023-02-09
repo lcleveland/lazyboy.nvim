@@ -158,6 +158,7 @@ Project Link: [https://github.com/lcleveland/lazyboy.nvim](https://github.com/lc
 ## Acknowledgments
 
 * [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

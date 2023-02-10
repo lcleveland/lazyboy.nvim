@@ -8,8 +8,10 @@ return {
     "ms-jpq/coq.artifacts",
     {
         "ms-jpq/coq.thirdparty",
-        opts = {
-            {src = "Mason", short_name = "MAS"},
-        },
+        config = function ()
+            require("coq_3p") {
+                { src = "Mason", short_name = "MSON"},
+            }
+        end,
     },
 }

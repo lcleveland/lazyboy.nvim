@@ -17,3 +17,7 @@ vim.g.mapleader = " "
 
 -- set plugins to use the lua/plugins folder
 require("lazy").setup("plugins")
+
+-- set colorscheme
+vim.o.termguicolors = true
+vim.cmd [[colorscheme carbonfox]]

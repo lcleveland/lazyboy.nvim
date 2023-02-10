@@ -77,8 +77,8 @@ My nvim config built using lazy.nvim.
 
 ### Built With
 
-* [![lazy.nvim][lazy.nvim]][lazy.nvim-url]
-* [![mason.nvim][mason.nvim]][mason.nvim-url]
+* <a href="https://github.com/folke/lazy.nvim"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png" width=128></a>
+* <a href="https://github.com/williamboman/mason.nvim"><img src="https://user-images.githubusercontent.com/6705160/177613416-0c0354d2-f431-40d8-87f0-21310f0bba0e.png" width=128></a>
 * <a href="https://github.com/EdenEast/nightfox.nvim"><img src="https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg" width=128></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -246,9 +246,3 @@ Project Link: [https://github.com/lcleveland/lazyboy.nvim](https://github.com/lc
 [license-url]: https://github.com/lcleveland/lazyboy.nvim/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lylecleveland
-[lazy.nvim]: https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png
-[lazy.nvim-url]: https://github.com/folke/lazy.nvim
-[mason.nvim]: https://user-images.githubusercontent.com/6705160/177613416-0c0354d2-f431-40d8-87f0-21310f0bba0e.png
-[mason.nvim-url]: https://github.com/williamboman/mason.nvim
-[nightfox.nvim]: https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg
-[nightfox.nvim-url]: https://github.com/EdenEast/nightfox.nvim

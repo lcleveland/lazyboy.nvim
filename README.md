@@ -124,6 +124,11 @@ To get a local copy up and running follow these simple example steps.
   sudo apt install nodejs -y
   ```
 
+* python3-venv
+  ```
+  sudo apt install python3-venv -y
+  ```
+
 #### Windows
 
 * Chocolatey

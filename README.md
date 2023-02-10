@@ -174,7 +174,8 @@ To get a local copy up and running follow these simple example steps.
 ## Roadmap
 
 - [x] Bootstrap lazy.nvim
-- [ ] Mason plugin
+- [x] Mason plugin
+- Theme plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

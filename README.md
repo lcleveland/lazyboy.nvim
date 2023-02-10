@@ -79,7 +79,7 @@ My nvim config built using lazy.nvim.
 
 * [![lazy.nvim][lazy.nvim]][lazy.nvim-url]
 * [![mason.nvim][mason.nvim]][mason.nvim-url]
-* [![nightfox.nvim][nightfox.nvim]][nightfox.nvim-url]
+* [![nightfox.nvim][nightfox.nvim = 128x128]][nightfox.nvim-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -102,6 +102,23 @@ To get a local copy up and running follow these simple example steps.
   sudo apt install git -y
   ```
 
+#### Windows
+
+* Chocolatey
+  ```
+  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+  ```
+
+* neovim
+  ```
+  choco install neovim -y
+  ```
+
+* git
+  ```
+  choco install git -y
+  ```
+
 ### Installation
 
 1. Clone the repo in your nvim config folder

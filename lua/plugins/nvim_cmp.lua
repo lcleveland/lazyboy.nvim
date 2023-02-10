@@ -1,8 +1,11 @@
 return {
     {
         "hrsh7th/nvim-cmp",
-        config = true,
-        lazy = false,
+        opts = {
+            sources = {
+                { name = 'nvim_lsp'},
+            }
+        }
     },
     "hrsh7th/cmp-path",
     "hrsh7th/cmp-buffer",

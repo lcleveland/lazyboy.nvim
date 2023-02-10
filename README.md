@@ -119,6 +119,16 @@ To get a local copy up and running follow these simple example steps.
   choco install git -y
   ```
 
+* 7zip
+  ```
+  choco install 7zip -y
+  ```
+
+* tar
+  ```
+  choco install tartool -y
+  ```
+
 ### Installation
 
 1. Clone the repo in your nvim config folder

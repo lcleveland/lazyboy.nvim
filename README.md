@@ -90,10 +90,58 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+#### Linux
+
 * neovim
   ```sh
   sudo apt install neovim -y 
+  ```
+
+* git
+  ```
+  sudo apt install git -y
+  ```
+
+* curl
+  ```
+  sudo apt install curl -y
+  ```
+
+* unzip
+  ```
+  sudo apt install unzip -y
+  ```
+
+* gzip
+  ```
+  sudo apt install gzip -y
+  ```
+
+#### Windows
+
+* Chocolatey
+  ```
+  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+  ```
+
+* neovim
+  ```
+  choco install neovim -y
+  ```
+
+* git
+  ```
+  choco install git -y
+  ```
+
+* 7zip
+  ```
+  choco install 7zip -y
+  ```
+
+* tar
+  ```
+  choco install tartool -y
   ```
 
 ### Installation

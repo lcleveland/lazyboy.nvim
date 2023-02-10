@@ -118,6 +118,11 @@ To get a local copy up and running follow these simple example steps.
   sudo apt install gzip -y
   ```
 
+* nodejs
+  ```
+  sudo apt install nodejs -y
+  ```
+
 #### Windows
 
 * Chocolatey
@@ -143,6 +148,11 @@ To get a local copy up and running follow these simple example steps.
 * tar
   ```
   choco install tartool -y
+  ```
+
+* nodejs
+  ```
+  choco install nodejs -y
   ```
 
 ### Installation

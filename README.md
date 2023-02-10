@@ -123,11 +123,22 @@ To get a local copy up and running follow these simple example steps.
   ```
   curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
   sudo apt install nodejs -y
+  sudo npm install -g neovim
   ```
 
 * python3-venv
   ```
   sudo apt install python3-venv -y
+  ```
+
+* pip
+  ```
+  sudo apt install python3-pip -y
+  ```
+
+* pynvim
+  ```
+  sudo pip3 install pynvim
   ```
 
 #### Windows
@@ -160,6 +171,7 @@ To get a local copy up and running follow these simple example steps.
 * nodejs
   ```
   choco install nodejs -y
+  npm install -g neovim
   ```
 
 ### Installation

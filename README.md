@@ -96,6 +96,11 @@ This is an example of how to list things you need to use the software and how to
   sudo apt install neovim -y 
   ```
 
+  * git
+  ```
+  sudo apt install git -y
+  ```
+
 ### Installation
 
 1. Clone the repo in your nvim config folder

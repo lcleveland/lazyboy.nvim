@@ -96,7 +96,7 @@ This is an example of how to list things you need to use the software and how to
   sudo apt install neovim -y 
   ```
 
-  * git
+* git
   ```
   sudo apt install git -y
   ```

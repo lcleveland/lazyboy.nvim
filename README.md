@@ -79,7 +79,7 @@ My nvim config built using lazy.nvim.
 
 * [![lazy.nvim][lazy.nvim]][lazy.nvim-url]
 * [![mason.nvim][mason.nvim]][mason.nvim-url]
-* <img src="https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg" width=128>[nightfox.nvim-url]
+* <a href="https://github.com/EdenEast/nightfox.nvim"><img src="https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg" width=128></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

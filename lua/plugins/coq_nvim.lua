@@ -6,5 +6,10 @@ return {
         end,
     },
     "ms-jpq/coq.artifacts",
-    "ms-jpq/coq.thirdparty",
+    {
+        "ms-jpq/coq.thirdparty",
+        opts = {
+            {src = "Mason", short_name = "MAS"},
+        },
+    },
 }

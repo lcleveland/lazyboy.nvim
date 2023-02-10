@@ -102,6 +102,21 @@ To get a local copy up and running follow these simple example steps.
   sudo apt install git -y
   ```
 
+* curl
+  ```
+  sudo apt install curl -y
+  ```
+
+* unzip
+  ```
+  sudo apt install unzip -y
+  ```
+
+* gzip
+  ```
+  sudo apt install gzip -y
+  ```
+
 #### Windows
 
 * Chocolatey

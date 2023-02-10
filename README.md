@@ -78,6 +78,7 @@ My nvim config built using lazy.nvim.
 ### Built With
 
 * [![lazy.nvim][lazy.nvim]][lazy.nvim-url]
+* [![mason.nvim][mason.nvim]][mason.nvim-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,6 +118,17 @@ To get a local copy up and running follow these simple example steps.
   sudo apt install gzip -y
   ```
 
+* nodejs
+  ```
+  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+  sudo apt install nodejs -y
+  ```
+
+* python3-venv
+  ```
+  sudo apt install python3-venv -y
+  ```
+
 #### Windows
 
 * Chocolatey
@@ -144,6 +156,11 @@ To get a local copy up and running follow these simple example steps.
   choco install tartool -y
   ```
 
+* nodejs
+  ```
+  choco install nodejs -y
+  ```
+
 ### Installation
 
 1. Clone the repo in your nvim config folder
@@ -157,7 +174,8 @@ To get a local copy up and running follow these simple example steps.
 ## Roadmap
 
 - [x] Bootstrap lazy.nvim
-- [ ] Mason plugin
+- [x] Mason plugin
+- [ ] Theme plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 
@@ -229,3 +247,5 @@ Project Link: [https://github.com/lcleveland/lazyboy.nvim](https://github.com/lc
 [linkedin-url]: https://linkedin.com/in/lylecleveland
 [lazy.nvim]: https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png
 [lazy.nvim-url]: https://github.com/folke/lazy.nvim
+[mason.nvim]: https://user-images.githubusercontent.com/6705160/177613416-0c0354d2-f431-40d8-87f0-21310f0bba0e.png
+[mason.nvim-url]: https://github.com/williamboman/mason.nvim

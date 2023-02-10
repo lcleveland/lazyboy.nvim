@@ -2,6 +2,7 @@ return {
     {
         "hrsh7th/nvim-cmp",
         config = true,
+        lazy = false,
     },
     "hrsh7th/cmp-path",
     "hrsh7th/cmp-buffer",

@@ -14,3 +14,6 @@ vim.opt.rtp:prepend(lazypath)
 
 -- map leader before plugin configuration
 vim.g.mapleader = " "
+
+-- set plugins to use the lua/plugins folder
+require("lazy").setup("plugins")

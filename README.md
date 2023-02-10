@@ -120,6 +120,7 @@ To get a local copy up and running follow these simple example steps.
 
 * nodejs
   ```
+  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
   sudo apt install nodejs -y
   ```
 

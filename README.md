@@ -190,7 +190,8 @@ To get a local copy up and running follow these simple example steps.
 - [x] Bootstrap lazy.nvim
 - [x] Mason plugin
 - [x] Theme plugin
-- [ ] Completion plugin
+- [x] Completion plugin
+- [ ] Wilder
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

@@ -14,6 +14,10 @@ return {
                     {name = 'snippy'},
                 }),
             })
+            local capabilities = require('cmp_nvim_lsp').default_capabilities()
+            require('lspconfig')['cmp_nvim_lsp'].setup {
+                capabilities = capabilities
+            }
         end
     },
 }

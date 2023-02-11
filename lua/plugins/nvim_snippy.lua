@@ -1,3 +1,0 @@
-return {
-    "dcampos/nvim-snippy",
-}

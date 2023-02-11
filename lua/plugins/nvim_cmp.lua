@@ -15,7 +15,7 @@ return {
                 }),
             })
             local capabilities = require('cmp_nvim_lsp').default_capabilities()
-            require('lspconfig')['mason.nvim'].setup {
+            require('lspconfig')['mason-lspconfig'].setup {
                 capabilities = capabilities
             }
         end

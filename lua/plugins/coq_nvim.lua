@@ -1,10 +1,8 @@
 return {
     {
         "ms-jpq/coq_nvim",
-        init = function ()
-            vim.cmd([[COQdeps]])
-        end,
         config = function ()
+            vim.cmd([[COQdeps]])
             vim.cmd([[COQnow -s]])
         end,
     },

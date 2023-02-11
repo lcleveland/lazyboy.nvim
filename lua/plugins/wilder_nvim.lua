@@ -1,6 +1,10 @@
 return {
     {
         "gelguy/wilder.nvim",
-        config = true,
+        config = function()
+            wilder.set_option('renderer', wilder.popupmenu_renderer({
+                highlighter = wilder.basic_highlighter(),
+            }))
+        end,
     },
 }

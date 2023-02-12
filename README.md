@@ -88,6 +88,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/ggandor/leap.nvim">leap.nvim</a>
 * <a href="https://github.com/rcarriga/nvim-notify">nvim-notify</a>
 * <a href="https://github.com/windwp/nvim-autopairs">nvim-autopairs</a>
+* <a href="https://github.com/numToStr/Comment.nvim">Comment.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +208,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Which-key plugin
 - [x] Autopairs
 - [ ] Blankline.nvim
-- [ ] Comment plugin
+- [x] Comment plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

@@ -21,3 +21,10 @@ require("lazy").setup("plugins")
 -- set colorscheme
 vim.o.termguicolors = true
 vim.cmd [[colorscheme carbonfox]]
+
+-- line numbers
+vim.wo.number = true
+vim.o.relativenumber = true
+
+-- clipboard
+vim.o.clipboard = 'unnamedplus'

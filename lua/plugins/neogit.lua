@@ -1,6 +1,6 @@
 return {
     {
-        "lewis6991/gitsigns.nvim",
+        "TimUntersberger/neogit",
         config = true,
     },
 }

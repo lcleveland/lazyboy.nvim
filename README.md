@@ -89,6 +89,9 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/rcarriga/nvim-notify">nvim-notify</a>
 * <a href="https://github.com/windwp/nvim-autopairs">nvim-autopairs</a>
 * <a href="https://github.com/numToStr/Comment.nvim">Comment.nvim</a>
+* <a href="https://github.com/TimUntersberger/neogit">Neogit</a>
+* <a href="https://github.com/sindrets/diffview.nvim">diffview.nvim</a>
+* <a href="https://github.com/lewis6991/gitsigns.nvim">gitsigns.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,11 +206,10 @@ To get a local copy up and running follow these simple example steps.
 - [x] Feline
 - [x] Leap plugin
 - [x] Treesitter
-- [ ] Git plugin
+- [x] Git plugin
 - [x] Notify plugin
 - [x] Which-key plugin
 - [x] Autopairs
-- [ ] Blankline.nvim
 - [x] Comment plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).

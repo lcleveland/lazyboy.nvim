@@ -85,6 +85,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/feline-nvim/feline.nvim">feline.nvim</a>
 * <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
 * <a href="https://github.com/folke/which-key.nvim">which-key.nvim</a>
+* <a href="https://github.com/ggandor/leap.nvim">leap.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +198,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Completion plugin
 - [x] Wilder
 - [x] Feline
-- [ ] Leap plugin
+- [x] Leap plugin
 - [x] Treesitter
 - [ ] Git plugin
 - [ ] Notify plugin

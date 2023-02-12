@@ -1,10 +1,10 @@
 return {
     {
         "nvim-treesitter/nvim-treesitter",
-        opts = {
-            ensure_installed = {"lua","vim","help","python"},
-        },
         config = function ()
+            require("nvim-treesitter.configs").setup {
+                ensure_installed = {"c", "lua", "vim", "help"},
+            }
             vim.cmd([[TSUpdate]])
         end,
     },

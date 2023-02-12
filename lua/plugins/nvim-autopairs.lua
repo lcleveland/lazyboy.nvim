@@ -16,6 +16,7 @@ return {
                 map_bs = false,
                 map_cr = false,
                 enable_check_bracket_line = true,
+                ignored_next_char = "[%w%.]",
             })
 
             local ts_conds = require('nvim-autopairs.ts-conds')

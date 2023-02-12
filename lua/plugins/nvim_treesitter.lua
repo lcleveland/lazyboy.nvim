@@ -1,7 +1,7 @@
 return {
     {
         "nvim-treesitter/nvim-treesitter",
-        priority = 75,
+        priority = 90,
         config = function ()
             require("nvim-treesitter.configs").setup {
                 ensure_installed = {"c", "lua", "vim", "help", "python"},

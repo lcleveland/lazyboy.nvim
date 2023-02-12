@@ -195,9 +195,14 @@ To get a local copy up and running follow these simple example steps.
 - [x] Completion plugin
 - [x] Wilder
 - [x] Feline
-- [ ] Motion plugin
+- [ ] Leap plugin
 - [ ] Treesitter
 - [ ] Git plugin
+- [ ] Notify plugin
+- [ ] Which-key plugin
+- [ ] Autopairs
+- [ ] Blankline.nvim
+- [ ] Comment plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

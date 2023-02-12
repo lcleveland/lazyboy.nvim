@@ -82,6 +82,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/EdenEast/nightfox.nvim"><img src="https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg" width=64></a>
 * <a href="https://github.com/ms-jpq/coq_nvim">coq.nvim 🐔</a>
 * <a href="https://github.com/gelguy/wilder.nvim">wilder.nvim</a>
+* <a href="https://github.com/feline-nvim/feline.nvim">feline.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,6 +194,15 @@ To get a local copy up and running follow these simple example steps.
 - [x] Theme plugin
 - [x] Completion plugin
 - [x] Wilder
+- [x] Feline
+- [ ] Leap plugin
+- [ ] Treesitter
+- [ ] Git plugin
+- [ ] Notify plugin
+- [ ] Which-key plugin
+- [ ] Autopairs
+- [ ] Blankline.nvim
+- [ ] Comment plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

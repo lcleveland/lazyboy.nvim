@@ -7,6 +7,7 @@ return {
             wilder.set_option('renderer', wilder.popupmenu_renderer({
                 highlighter = wilder.basic_highlighter(),
             }))
+            vim.cmd([[UpdateRemotePlugins]])
         end,
     },
 }

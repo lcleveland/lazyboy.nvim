@@ -18,9 +18,6 @@ vim.g.mapleader = " "
 -- set plugins to use the lua/plugins folder
 require("lazy").setup("plugins")
 
--- set colorscheme
-vim.o.termguicolors = true
-
 -- line numbers
 vim.wo.number = true
 vim.o.relativenumber = true

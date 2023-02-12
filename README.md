@@ -197,6 +197,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Feline
 - [ ] Motion plugin
 - [ ] Treesitter
+- [ ] Git plugin
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

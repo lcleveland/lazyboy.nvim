@@ -196,7 +196,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Wilder
 - [x] Feline
 - [ ] Leap plugin
-- [ ] Treesitter
+- [x] Treesitter
 - [ ] Git plugin
 - [ ] Notify plugin
 - [ ] Which-key plugin

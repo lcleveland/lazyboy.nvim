@@ -83,6 +83,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/ms-jpq/coq_nvim">coq.nvim 🐔</a>
 * <a href="https://github.com/gelguy/wilder.nvim">wilder.nvim</a>
 * <a href="https://github.com/feline-nvim/feline.nvim">feline.nvim</a>
+* <a hreaf="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

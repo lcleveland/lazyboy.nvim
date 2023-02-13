@@ -82,7 +82,6 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/EdenEast/nightfox.nvim"><img src="https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg" width=64></a>
 * <a href="https://github.com/ms-jpq/coq_nvim">coq.nvim 🐔</a>
 * <a href="https://github.com/gelguy/wilder.nvim">wilder.nvim</a>
-* <a href="https://github.com/feline-nvim/feline.nvim">feline.nvim</a>
 * <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
 * <a href="https://github.com/folke/which-key.nvim">which-key.nvim</a>
 * <a href="https://github.com/ggandor/leap.nvim">leap.nvim</a>
@@ -94,6 +93,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/lewis6991/gitsigns.nvim">gitsigns.nvim</a>
 * <a href="https://github.com/folke/noice.nvim">noice.nvim</a>
 * <a href="https://github.com/sbdchd/neoformat">neoformat</a>
+* <a href="https://github.com/windwp/windline.nvim">windline.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,7 +205,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Theme plugin
 - [x] Completion plugin
 - [x] Wilder
-- [x] Feline
+- [x] Windline
 - [x] Leap plugin
 - [x] Treesitter
 - [x] Git plugin

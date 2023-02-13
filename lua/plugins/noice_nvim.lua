@@ -19,12 +19,12 @@ return {
 					long_message_to_split = true,
 					inc_rename = false,
 					lsp_doc_border = true,
-				}
+				},
 			})
 		end,
 		dependencies = {
-		   "MunifTanjim/nui.nvim",
-		   "rcarriga/nvim-notify",
-	   },
-	}
+			"MunifTanjim/nui.nvim",
+			"rcarriga/nvim-notify",
+		},
+	},
 }

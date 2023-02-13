@@ -92,6 +92,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/TimUntersberger/neogit">Neogit</a>
 * <a href="https://github.com/sindrets/diffview.nvim">diffview.nvim</a>
 * <a href="https://github.com/lewis6991/gitsigns.nvim">gitsigns.nvim</a>
+* <a href="https://github.com/folke/noice.nvim">noice.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,6 +212,8 @@ To get a local copy up and running follow these simple example steps.
 - [x] Which-key plugin
 - [x] Autopairs
 - [x] Comment plugin
+- [x] Noice
+- [ ] Formatter
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

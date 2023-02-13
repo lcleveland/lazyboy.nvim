@@ -94,6 +94,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/folke/noice.nvim">noice.nvim</a>
 * <a href="https://github.com/sbdchd/neoformat">neoformat</a>
 * <a href="https://github.com/windwp/windline.nvim">windline.nvim</a>
+* <a href="https://github.com/nvim-telescope/telescope.nvim">telescope.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,6 +216,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Comment plugin
 - [x] Noice
 - [x] Formatter
+- [x] Telescope
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

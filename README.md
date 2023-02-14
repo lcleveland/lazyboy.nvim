@@ -189,6 +189,11 @@ To get a local copy up and running follow these simple example steps.
   npm install -g neovim
   ```
 
+* make
+  ```
+  choco install make -y
+  ```
+
 ### Installation
 
 1. Clone the repo in your nvim config folder

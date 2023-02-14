@@ -14,7 +14,7 @@ wk.register({
 	},
 	g = {
 		name = "Git",
-		a = { "<cmd>Git add .<cr>", "Add Current File" },
+		a = { "<cmd>Git add %<cr>", "Add Current File" },
 		c = { "<cmd>Git commit<cr>", "Commit" },
 		p = { "cmd>Git push<cr>", "Push" },
 	},

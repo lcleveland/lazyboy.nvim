@@ -80,7 +80,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/folke/lazy.nvim">lazy.nvim</a>
 * <a href="https://github.com/williamboman/mason.nvim">mason.nvim</a>
 * <a href="https://github.com/EdenEast/nightfox.nvim">nightfox.nvim</a>
-* <a href="https://github.com/ms-jpq/coq_nvim">coq.nvim</a>
+* <a href="https://github.com/hrsh7th/nvim-cmp/">nvim-cmp</a>
 * <a href="https://github.com/gelguy/wilder.nvim">wilder.nvim</a>
 * <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
 * <a href="https://github.com/folke/which-key.nvim">which-key.nvim</a>
@@ -205,7 +205,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Mason plugin
 - [x] Theme plugin
 - [x] Completion plugin
-- [x] Wilder
+- [x] Cmp
 - [x] Windline
 - [x] Leap plugin
 - [x] Treesitter

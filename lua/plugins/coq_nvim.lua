@@ -4,5 +4,6 @@ return {
         config = function ()
             vim.cmd([[COQnow -s]])
         end,
+	build = ":COQdeps",
     },
 }

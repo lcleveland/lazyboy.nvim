@@ -73,7 +73,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-My nvim config built using lazy.nvim.
+My nvim config built using lazy.nvim. Currently unstable.
 
 ### Built With
 

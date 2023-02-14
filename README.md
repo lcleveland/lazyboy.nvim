@@ -96,6 +96,7 @@ My nvim config built using lazy.nvim.
 * <a href="https://github.com/windwp/windline.nvim">windline.nvim</a>
 * <a href="https://github.com/nvim-telescope/telescope.nvim">telescope.nvim</a>
 * <a href="https://github.com/kylechui/nvim-surround">nvim-surround</a>
+* <a href="https://github.com/folke/twilight.nvim">twilight.nvim</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -159,6 +159,16 @@ To get a local copy up and running follow these simple example steps.
   sudo pip3 install pynvim
   ```
 
+* fd
+  ```
+  sudo apt install fd-find -y
+  ```
+
+* rg
+  ```
+  sudo apt install ripgrep -y
+  ```
+
 #### Windows
 
 * Chocolatey
@@ -195,6 +205,16 @@ To get a local copy up and running follow these simple example steps.
 * make
   ```
   choco install make -y
+  ```
+
+* fd
+  ```
+  choco install fd -y
+  ```
+
+* rg
+  ```
+  choco install ripgrep -y
   ```
 
 ### Installation

@@ -41,7 +41,6 @@ return {
 				sources = cmp.config.sources({
 					{ name = "nvim_lsp" },
 					{ name = "snippy" },
-					{ name = "mason-lspconfig" },
 				}, {
 					{ name = "buffer" },
 				}),

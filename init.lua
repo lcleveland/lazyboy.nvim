@@ -6,7 +6,7 @@ if not vim.loop.fs_stat(lazypath) then
 		"clone",
 		"--filter=blob:none",
 		"https://github.com/folke/lazy.nvim.git",
-		"--branch=v9.7.0",
+		"--branch=stable",
 		lazypath,
 	})
 end
@@ -16,11 +16,7 @@ vim.opt.rtp:prepend(lazypath)
 vim.g.mapleader = " "
 
 -- set plugins to use the lua/plugins folder
-require("lazy").setup("plugins", {
-	defaults = {
-		version = "9.7.0",
-	},
-})
+require("lazy").setup("plugins")
 
 -- load user settings
 require("user.keymap")

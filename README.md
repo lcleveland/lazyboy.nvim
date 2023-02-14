@@ -77,10 +77,10 @@ My nvim config built using lazy.nvim.
 
 ### Built With
 
-* <a href="https://github.com/folke/lazy.nvim"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png" width=64></a>
-* <a href="https://github.com/williamboman/mason.nvim"><img src="https://user-images.githubusercontent.com/6705160/177613416-0c0354d2-f431-40d8-87f0-21310f0bba0e.png" height=64></a>
-* <a href="https://github.com/EdenEast/nightfox.nvim"><img src="https://user-images.githubusercontent.com/2746374/179428323-6d6b5e7f-6459-47b3-9e03-fea7553d85af.svg" width=64></a>
-* <a href="https://github.com/ms-jpq/coq_nvim">coq.nvim 🐔</a>
+* <a href="https://github.com/folke/lazy.nvim">lazy.nvim</a>
+* <a href="https://github.com/williamboman/mason.nvim">mason.nvim</a>
+* <a href="https://github.com/EdenEast/nightfox.nvim">nightfox.nvim</a>
+* <a href="https://github.com/ms-jpq/coq_nvim">coq.nvim</a>
 * <a href="https://github.com/gelguy/wilder.nvim">wilder.nvim</a>
 * <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
 * <a href="https://github.com/folke/which-key.nvim">which-key.nvim</a>

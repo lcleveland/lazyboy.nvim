@@ -15,7 +15,7 @@ return {
 			max_file_lines = nil,
 		},
             }
-            vim.cmd([[TSUpdate]])
         end,
+	build = ":TSUpdate",
     },
 }

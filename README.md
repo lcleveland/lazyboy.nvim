@@ -232,21 +232,10 @@ To get a local copy up and running follow these simple example steps.
 ## Roadmap
 
 - [x] Bootstrap lazy.nvim
-- [x] Mason plugin
-- [x] Theme plugin
-- [x] Completion plugin
-- [x] Cmp
-- [x] Windline
-- [x] Leap plugin
-- [x] Treesitter
-- [x] Git plugin
-- [x] Notify plugin
-- [x] Which-key plugin
-- [x] Autopairs
-- [x] Comment plugin
-- [x] Noice
-- [x] Formatter
-- [x] Telescope
+- [ ] Basic setup of plugins
+- [ ] In-depth setup of plugins
+- [ ] Keymap configuration
+- [ ] Visual ricing
 
 See the [open issues](https://github.com/lcleveland/lazyboy.nvim/issues) for a full list of proposed features (and known issues).
 

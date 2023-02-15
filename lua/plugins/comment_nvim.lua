@@ -1,6 +1,6 @@
 return {
-    {
-        "numToStr/Comment.nvim",
-        config = true,
-    }
+	{
+		"numToStr/Comment.nvim",
+		config = true,
+	},
 }

@@ -1,6 +1,6 @@
 return {
-    {
-        "TimUntersberger/neogit",
-        config = true,
-    },
+	{
+		"TimUntersberger/neogit",
+		config = true,
+	},
 }

@@ -1,3 +1,5 @@
 return {
-	"dcampos/nvim-snippy",
+	{
+		"dcampos/nvim-snippy",
+	},
 }

@@ -234,7 +234,7 @@ To get a local copy up and running follow these simple example steps.
 ## Roadmap
 
 - [x] Bootstrap lazy.nvim
-- [ ] Basic setup of plugins
+- [x] Basic setup of plugins
 - [ ] In-depth setup of plugins
 - [ ] Keymap configuration
 - [ ] Visual ricing

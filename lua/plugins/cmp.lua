@@ -4,7 +4,11 @@ return {
 		config = function()
 			local cmp = require("cmp")
 			local select_opts = { behavior = cmp.SelectBehavior.Select }
+			local lspkind = require("lspkind")
 			cmp.setup({
+				experimental = {
+					ghost_text = true,
+				},
 				snippet = {
 					expand = function(args)
 						require("snippy").expand_snippet(args.body)
@@ -15,17 +19,15 @@ return {
 					documentation = cmp.config.window.bordered(),
 				},
 				formatting = {
-					fields = { "menu", "abbr", "kind" },
-					format = function(entry, item)
-						local menu_icon = {
-							nvim_lsp = "λ",
-							snippy = "⋗",
-							buffer = "Ω",
-							path = "🖫",
-						}
-						item.menu = menu_icon[entry.source.name]
-						return item
-					end,
+					format = lspkind.cmp_format({
+						mode = "symbol_text",
+						menu = {
+							buffer = "[BUF]",
+							nvim_lsp = "[LSP]",
+							snippy = "[SNP]",
+							path = "[PTH]",
+						},
+					}),
 				},
 				mapping = cmp.mapping.preset.insert({
 					["<C-b>"] = cmp.mapping.scroll_docs(-4),

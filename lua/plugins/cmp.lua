@@ -6,9 +6,6 @@ return {
 			local select_opts = { behavior = cmp.SelectBehavior.Select }
 			local lspkind = require("lspkind")
 			cmp.setup({
-				experimental = {
-					ghost_text = true,
-				},
 				snippet = {
 					expand = function(args)
 						require("snippy").expand_snippet(args.body)

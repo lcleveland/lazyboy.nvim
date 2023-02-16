@@ -100,6 +100,7 @@ My nvim config built using lazy.nvim. Currently unstable.
 * <a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a>
 * <a href="https://github.com/nvim-neo-tree/neo-tree.nvim">neo-tree</a>
 * <a href="https://github.com/goolord/alpha-nvim">alpha-nvim</a>
+* <a href="https://github.com/noib3/nvim-cokeline">nvim-cokeline</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
